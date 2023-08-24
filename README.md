@@ -1,18 +1,22 @@
-# Challenge 1
 
-A brief description of what this project does and who it's for
+
+#Website accessability challenge
 
 This project aims to fix the accessability of the website 
 
 
 #Installation 
 
-N/accessability
+N/a
 
 
 #Usage
 
 go to website https://mitchmcnaughton.github.io/website-accessability-challenge/
+
+should look like this
+
+
 
 
 
